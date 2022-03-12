@@ -84,7 +84,7 @@ footer img   {
 .hero           {
   min-height: 800px;
   text-align: center;
-  background-image: url('../icon/sky.jpg');
+  background-image: url('..heal/icon/sky.jpg');
   background-size: cover;
 }
  .hero-content   {
@@ -93,7 +93,6 @@ footer img   {
 .hero-content a    {
   display: inline-block;
   font-family: fredoka;
-  background-color: aquamarine;
   color: #FFF;
   border: 3px solid #FFF;
   border-radius: 3px;
